@@ -30,7 +30,7 @@ class Strings:
                     "but something forced by Telegram\n"
                     "\n"
                     "<b>Correct way of building your own custom pack</b>\n"
-                    "Use @MyPackBot. It doesn't steal stickers like I do. It's blazing fast too. Really suggested")
+                    "Use @TxSticker_bot. It doesn't steal stickers like I do. It's blazing fast too. Really suggested")
 
     PACK_CREATION_WAITING_TITLE = ("Alright, a new stickers pack! Select the pack type with the buttons below "
                                    "and <b>send me the pack title</b> (must not exceed 64 characters).\n\n"
@@ -218,4 +218,4 @@ class Strings:
 
     CLEANUP_WAIT = "Hold on, this operation might take some time..."
 
-    TO_FILE_MIME_TYPE = "©️ @DamienSoukara : {}"
+    TO_FILE_MIME_TYPE = "©️ @ItzMeZeus : {}"
